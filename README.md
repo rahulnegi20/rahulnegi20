@@ -4,7 +4,7 @@
 - 🤔 I’m looking for help with ![Instagram increase follower and reach script](https://github.com/rahulnegi20/INCREASE-FOLLOWERS-OF-INSTAGRAM-ORGANICALLY-WITH-THIS-SCRIPT-)  ||  ![tdict- terminal based dictionary](https://github.com/rahulnegi20/tdict) .
 
 ### Reach me - 
-<img align="left" alt="Rahul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" href="https://www.linkedin.com/in/rahul-negi-57b70a145"/> <br>
+<a href="https://www.linkedin.com/in/rahul-negi-57b70a145"><img align="left" alt="Rahul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" /> <br></a>
 
 
 
