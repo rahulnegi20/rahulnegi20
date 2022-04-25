@@ -6,9 +6,9 @@
 
  
 - 🤔 I’m looking for help with : 
--  ~~![Instagram increase follower and reach script](https://github.com/rahulnegi20/INCREASE-FOLLOWERS-OF-INSTAGRAM-ORGANICALLY-WITH-THIS-SCRIPT-) 
--  ~~![tdict- terminal based dictionary](https://github.com/rahulnegi20/tdict/issues/) .
--   ~~[flash-type](https://github.com/rahulnegi20/flash-type/issues)
+- ~~![Instagram increase follower and reach script](https://github.com/rahulnegi20/INCREASE-FOLLOWERS-OF-INSTAGRAM-ORGANICALLY-WITH-THIS-SCRIPT-)~~
+- ~~![tdict- terminal based dictionary](https://github.com/rahulnegi20/tdict/issues/)~~
+- ~~![flash-type](https://github.com/rahulnegi20/flash-type/issues)~~
 ### Reach me - 
 
 [<img align="left" alt="Rahul Negi | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
