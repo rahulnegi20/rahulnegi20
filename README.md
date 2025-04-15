@@ -5,7 +5,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/rahulnegi20)](https://badges.pufler.dev/repos/rahulnegi20)
 
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahulnegi20) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulnegi20) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14107169) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RahulNe34485595) 
